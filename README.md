@@ -15,12 +15,12 @@ Copy the Anycubic.ini and Anycubic.idx files to the resources\profiles folder in
 
 Copy the Anycubic folder to the resources\profiles folder in your PrusaSlicer installation directory (C:\Program Files\Prusa3D\PrusaSlicer on my computer).
 
-Start the PrusaSlicer and start the Configuration Wizard from the Configuration menu.<
-On the Other Vendors page of the wizard select Anycubic then select the desired printer.<
+Start the PrusaSlicer and start the Configuration Wizard from the Configuration menu.
+On the Other Vendors page of the wizard select Anycubic then select the desired printer.
 
 
 ## Credits for STL Models
 
-Anycubic Kossel Linear Plus stl bed model from rxdroid: https://www.thingiverse.com/thing:2688959<br>
-Anycubic Kossel Pulley and Linear stl bed model from apak: https://www.thingiverse.com/thing:3867046<br>
+Anycubic Kossel Linear Plus stl bed model from rxdroid: https://www.thingiverse.com/thing:2688959
+Anycubic Kossel Pulley and Linear stl bed model from apak: https://www.thingiverse.com/thing:3867046
 
