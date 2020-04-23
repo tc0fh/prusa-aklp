@@ -22,5 +22,6 @@ On the Other Vendors page of the wizard select Anycubic then select the desired 
 ## Credits for STL Models
 
 Anycubic Kossel Linear Plus stl bed model from rxdroid: https://www.thingiverse.com/thing:2688959
+
 Anycubic Kossel Pulley and Linear stl bed model from apak: https://www.thingiverse.com/thing:3867046
 
